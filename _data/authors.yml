@@ -50,7 +50,7 @@ naraquev:
 lbourdois:
   name: Loïck BOURDOIS
   web: https://lbourdois.github.io/blog/
-  bio: "Data Scientist working at the Bordeaux Population Health Research Centre of INSERM University of Bordeaux."
+  bio: "Hugging Face Fellow"
   avatar: lbourdois.png
 
 KaiyuanGao:
@@ -126,3 +126,4 @@ viktor2k:
   web: https://medium.com/@viktor2karlsson
   avatar: viktor2k.png
   github: Viktor2K
+
